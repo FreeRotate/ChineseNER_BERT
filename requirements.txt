@@ -1,0 +1,5 @@
+torch==1.10.1+cu113
+transformers==4.15.0
+argparse==1.4.0
+numpy==1.22.3
+seqeval==1.2.2
